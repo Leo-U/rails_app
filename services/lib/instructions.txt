@@ -1,0 +1,9 @@
+Piece Moves: Enter a piece's letter followed by its destination square (e.g. 'nf3') -- n is the piece letter, and f3 is the destination square coordinate. Alternatively, use unambiguous notation (e.g. 'e4f3'), which is simply origin square (e4) immediately followed by destination square (f3), with no space between. Pawn captures require the latter. You can use both notations so that you can enter the moves a bit more quickly, or rely entirely on the unambiguous notation -- it's not possible to play without relying on the unambiguous notation for certain moves.
+
+If you want to use the first option, a piece's piece letter is simply the first letter of its piece name -- except for the knight, whose piece letter is "n" (since "k" is for the king).
+
+Pawn Moves: Just use file and rank (e.g., 'e4') -- that is, the destination square of the pawn. For pawn captures, you must use unambiguous notation (e.g., 'e4d5').
+
+Castling: Use 'o-o' for kingside castling, and 'o-o-o' for queenside castling.
+
+Saving games: Type 'save'.
